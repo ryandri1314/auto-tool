@@ -1,0 +1,7 @@
+build/
+chromedriver.exe
+backup.py
+dist/
+run_chrome.spec
+main.spec
+test.py
