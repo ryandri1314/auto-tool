@@ -55,5 +55,5 @@ A simple GUI tool built with **Tkinter** and **Selenium** to automate the proces
 - Improve the voucher input parser for bulk formats.
 - Enhance error handling and add user notifications.
 
-  ----------
+----------
 Created by [Uri]
